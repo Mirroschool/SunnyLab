@@ -1,5 +1,6 @@
 var NAVTREEINDEX0 =
 {
+"_weather_station_8ino_source.html":[1,0,0,0,5],
 "annotated.html":[0,0],
 "button_minim_8h_source.html":[1,0,0,0,0],
 "classbutton_minim.html":[0,0,0],
@@ -23,6 +24,5 @@ var NAVTREEINDEX0 =
 "structbutton_minim_flags.html#a3f75c98e656967ee487351961fe0b0bf":[0,0,1,1],
 "structbutton_minim_flags.html#a42e981691579834a7bf3a5f138e927dd":[0,0,1,3],
 "structbutton_minim_flags.html#a672e3ce96fd596f2922c617d5617a3bd":[0,0,1,0],
-"structbutton_minim_flags.html#aa7af7dae085a3b1581f54293f81f1d87":[0,0,1,4],
-"weather__station_8ino_source.html":[1,0,0,0,5]
+"structbutton_minim_flags.html#aa7af7dae085a3b1581f54293f81f1d87":[0,0,1,4]
 };

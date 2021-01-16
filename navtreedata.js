@@ -37,7 +37,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"_weather_station_8ino_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
