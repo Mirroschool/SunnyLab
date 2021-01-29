@@ -5,5 +5,5 @@ var dir_f975fbbd52f246a9d61b1e14c4bfd648 =
     [ "led.h", "led_8h_source.html", null ],
     [ "render.h", "render_8h_source.html", null ],
     [ "sensors.h", "sensors_8h_source.html", null ],
-    [ "WeatherStation.ino", "_weather_station_8ino_source.html", null ]
+    [ "SunnyLab.ino", "_sunny_lab_8ino_source.html", null ]
 ];

@@ -1,6 +1,6 @@
 var NAVTREEINDEX0 =
 {
-"_weather_station_8ino_source.html":[1,0,0,0,5],
+"_sunny_lab_8ino_source.html":[1,0,0,0,5],
 "annotated.html":[0,0],
 "button_minim_8h_source.html":[1,0,0,0,0],
 "classbutton_minim.html":[0,0,0],
